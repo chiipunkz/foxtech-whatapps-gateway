@@ -1,6 +1,6 @@
 # FoxTech WhatsApp Gateway Plugin for WordPress
 
-![FoxTech Logo](https://foxtech.biz.id/assets/logo.png)
+![FoxTech Logo](https://foxtech.biz.id/wp-content/uploads/2025/09/FTEID-e1757991498442.png)
 
 **FoxTech WhatsApp Gateway** adalah plugin WordPress yang menghubungkan **WhatsApp Users** dengan WordPress melalui layanan gateway **[WAnotif](https://wanotif.foxtech.biz.id/en)**.  
 Plugin ini dirancang untuk mempermudah pengiriman pesan WhatsApp secara otomatis dari website berbasis WordPress, baik untuk pesan biasa maupun pesan broadcast.
