@@ -22,7 +22,7 @@ Plugin ini dirancang untuk mempermudah pengiriman pesan WhatsApp secara otomatis
 ## 🛠️ Cara Install
 
 1. **Download Plugin**
-   - Unduh plugin ini dari halaman [Releases](https://github.com/chiipunkz/foxtech-whatsapp-gateway/releases).
+   - Unduh plugin ini dari halaman [Releases](https://github.com/chiipunkz/foxtech-whatapps-gateway/archive/refs/heads/main.zip).
 
 2. **Upload ke WordPress**
    - Masuk ke **WordPress Admin** > **Plugins** > **Add New** > **Upload Plugin**.
